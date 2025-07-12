@@ -79,10 +79,10 @@ The project followed a structured data science workflow:
 ## 📂 Project Structure
 
 📦term-deposit-subscription-prediction
-┣ 📄 term_deposit_analysis.ipynb
-┣ 📄 clients_to_call_25th.csv
-┣ 📄 clients_to_call_75th.csv
-┣ 📄 README.md
+- 📄 term_deposit_analysis.ipynb
+- 📄 clients_to_call_25th.csv
+- 📄 clients_to_call_75th.csv
+- 📄 README.md
 
 
 ---
@@ -94,12 +94,5 @@ The project followed a structured data science workflow:
 - Delivered data-backed recommendations for business decision-making.
 - Applied multiple clustering and visualization techniques for exploratory insights.
 - Used DuckDB for in-notebook SQL querying and data manipulation.
-
----
-
-## 🔗 GitHub Repository
-
-You can explore the full notebook and files in the repository:  
-👉 [**GitHub Repo Link Here**](https://github.com/your-username/your-repo-name)
 
 ---
